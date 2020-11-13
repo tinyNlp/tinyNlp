@@ -1,0 +1,3 @@
+[submodule "audio/app/src/main/cpp/oboe"]
+	path = audio/app/src/main/cpp/oboe
+	url = https://github.com/google/oboe
